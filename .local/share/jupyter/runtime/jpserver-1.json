@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/ch-unine-057610/",
+  "hostname": "192.168.130.102",
+  "password": false,
+  "pid": 1,
+  "port": 56539,
+  "root_dir": "/home",
+  "secure": false,
+  "sock": "",
+  "token": "338b74d10d10375f56c75d4804f2485a23da1493ef291443",
+  "url": "http://192.168.130.102:56539/user/ch-unine-057610/",
+  "version": "2.14.2"
+}
